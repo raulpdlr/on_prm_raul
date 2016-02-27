@@ -45,3 +45,14 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.class
+*.jar
+build/tmp/jar/MANIFEST.MF
+*.html
+*.css
+build/test-results/binary/test/output.bin
+*.bin
+build/test-results/TEST-test.NumberToEnglishWordConverterTest.xml
+*.xml
+build/test-results/binary/test/output.bin.idx
+*.js
